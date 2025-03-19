@@ -92,7 +92,7 @@ Feel free to fork, improve or submit issues & PRs. Let's build better OCR system
 ## 📬 Contact
 
 Made with ❤️ by **Vigneshwaran (Vicky)**  
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile) | 📧 your.email@example.com
+📫 [LinkedIn](https://www.linkedin.com/in/vigneshwaran-p-613661264/) | 📧 vickythevgn@gmail.com
 
 ---
 
