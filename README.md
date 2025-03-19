@@ -103,7 +103,3 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-### ✅ Bonus Tip:
-Include this as your `README.md` file in the root of your project folder. It'll show up automatically on your GitHub repo page.
-
-Want help creating a nice project **cover image/banner** for GitHub or adding **demo GIFs**? Just say the word 😎📸
