@@ -1,8 +1,5 @@
-Absolutely, Vicky! Here's a clean and professional **`README.md`** file for your GitHub repo that showcases your **Mistral OCR App** — complete with description, features, tech stack, setup, and more 👇
 
----
 
-```markdown
 # 📄 Mistral OCR App (Pixtral-12B Powered)
 
 Transform your documents into structured, readable text using **Mistral’s Pixtral-12B model**. This OCR app extracts content from uploaded images — including plain text and tabular data — with high accuracy using powerful vision-language models.
