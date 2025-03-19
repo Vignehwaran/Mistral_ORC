@@ -7,8 +7,7 @@ load_dotenv()
 import streamlit as st
 
 
-# api_key=os.getenv("Mistral_API_KEY")
-api_key="99O53y51sa1uB3iL4HzQdGoKJi2IB7sB"
+api_key=os.getenv("Mistral_API_KEY")
 
 def get_response(text):
     LLM=ChatMistralAI(
